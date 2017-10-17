@@ -1,4 +1,4 @@
-# python-compress
+# compress-stats
 
 Small application takes a file or directory and compresses. It won't actually write out any of the compressed files but will display a metric for a "how much will my data compress".
 
